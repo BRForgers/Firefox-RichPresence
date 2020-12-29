@@ -1,8 +1,9 @@
 # RichPresence Addon
-For Firefox, Chrome and Opera
+For Firefox, Chrome and Opera  
 
-
-Firefox: https://addons.mozilla.org/pt-BR/firefox/addon/richpresence-for-discord/
+Firefox: https://addons.mozilla.org/pt-BR/firefox/addon/richpresence-for-discord/  
+Opera: ``Your extension needs to be manually reviewed and moderated before it can be added to Opera Stable. It is currently only viewable and available for download in Opera Developer and Opera Beta.``  
+Chrome: ``Pending review``
 
 Other browsers: https://github.com/BRForgers/RichPresence-Addon/releases/download/v1.8/RichPresenceforDiscord.crx
 
